@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey! I’m J
+Code. Design. Break. Repeat.
+  
+  I’m currently working on VaultX — a smart, minimalist money-tracking app built for Gen Z to take control of their finances without the overwhelm.
+  I’m currently learning Python, and planning to dive deep into AI/ML, LLMs (like GPT), UI/UX design, and ethical hacking — building skills that blend intelligence, security, and aesthetics.
+  I’m looking to collaborate on tech projects that challenge norms — whether it’s apps, AI tools, or bold ideas with real-world impact.
+
 
 <!--
 **jbryeet/jbryeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
