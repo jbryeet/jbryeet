@@ -1,4 +1,4 @@
-## Hey! I’m J
+## Hey! I’m J and this is my Sandbox
 Code. Design. Break. Repeat.
   
   I’m currently working on VaultX — a smart, minimalist money-tracking app built for Gen Z to take control of their finances without the overwhelm.
