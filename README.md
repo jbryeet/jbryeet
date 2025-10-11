@@ -1,5 +1,4 @@
 ## Hey! I’m J and this is my Sandbox
-Code. Design. Break. Repeat.
 
  Tech x Creativity | Building the future one bold idea at a time 
   
