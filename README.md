@@ -1,6 +1,6 @@
 ## Hey! I’m J and this is my Sandbox
 
- Tech x Creativity | Building the future one bold idea at a time 
+ Tech x Creativity | Machine Learning Engineer with a Data Engineering and Backend foundation
   
 
 
